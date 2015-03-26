@@ -1,0 +1,16 @@
+{
+  "name": "apiREST",
+  "version": "1.0.0",
+  "description": "Ejemplo de API Rest con NodeJS y MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DwylaN",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.12.2",
+    "express": "^4.12.3",
+    "mongoose": "^3.8.25"
+  }
+}
